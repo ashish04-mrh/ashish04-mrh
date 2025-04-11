@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Ashish
-- 👀 I’m interested in Coding
+- 👀 I’m interested in Coding, learning Coding languages
 - 🌱 I’m currently learning Python
+- And, at the Intermediate level of C language and C++
 - 💞️ I’m looking to collaborate on my Work Passion
 - 📫 How to reach me ... Visit my Github Profile
 - 😄 Pronouns: Aashish, Abhishek
